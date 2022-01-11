@@ -1,10 +1,10 @@
 AUTO USATE						
 						
-ID	                        MARCA	                TARGA	                                DATA IMMATRICOLAZIONE	   MODELLO	PREZZO	                   CILINDRATA
+ID	                        MARCA	                TARGA	                                DATA IMMATRICOLAZIONE	   MODELLO	           PREZZO	                   CILINDRATA
 
-ATTRIBUTO: INT. PRIMARY_KEY	ATTRIBUTO: VARCHAR(30) 	ATTRIBUTO: VARCHAR(10) UNIQUE NULL	ATTRIBUTO: YEAR	ATTRIBUTO: VARCHAR(30) 	ATTRIBUTO: DECIMAL (4,3)   ATTRIBUTO: INT
-1	                        FORD	                AD546N	                                26/04/1999	           FIESTA	1,300	                   1000
-2	                        FIAT	                DD678T	                                10/02/2005	           PANDA	5,200	                   1200
-3	                        LANCIA	                DE897H	                                01/05/2010	           DELTA	3,100	                   1000
+ATTRIBUTO: INT. PRIMARY_KEY	ATTRIBUTO: VARCHAR(30) 	ATTRIBUTO: VARCHAR(10) UNIQUE NULL	ATTRIBUTO: YEAR	           ATTRIBUTO: VARCHAR(30)  ATTRIBUTO: DECIMAL (4,3)        ATTRIBUTO: INT
+1	                        FORD	                AD546N	                                26/04/1999	           FIESTA	           1,300	                   1000
+2	                        FIAT	                DD678T	                                10/02/2005	           PANDA	           5,200	                   1200
+3	                        LANCIA	                DE897H	                                01/05/2010	           DELTA	           3,100	                   1000
 						
 * ATTRIBUTI DEFAULT : NOT NULL						
